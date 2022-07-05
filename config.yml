@@ -62,6 +62,7 @@ mas_installed_apps:
   - { id: 1435957248, name: "Drafts" }
   - { id: 975937182,  name: "Fantastical" }
   - { id: 1290358394, name: "Cardhop" }
+  - { id: 993487541, name: "CARROT Weather" }
 
 # osx_script: "~/.osx --no-restart"
 
