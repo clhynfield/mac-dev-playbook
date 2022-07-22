@@ -53,6 +53,7 @@ homebrew_installed_packages:
   - mas
   - tmux
   - gnupg
+  - antibody
 
 homebrew_taps:
   - homebrew/core
