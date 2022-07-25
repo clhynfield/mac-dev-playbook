@@ -54,6 +54,7 @@ homebrew_installed_packages:
   - tmux
   - gnupg
   - antibody
+  - asdf
 
 homebrew_taps:
   - homebrew/core
